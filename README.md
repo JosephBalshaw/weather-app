@@ -33,7 +33,6 @@ For any further questions that are not addresed in  this README please find my e
 
 ## ScreenShots
 ![](./Windy%20Weather%20App/assets/Screenshot.jpg)
-![](# Windy Weather app 
 ## for up to date weather news
 ### Table of Contents
 - [Project Discription](#Discription)
@@ -66,6 +65,4 @@ For any further questions that are not addresed in  this README please find my e
 ### email: jbbalshaw@gmail.com
 ### github: 
 
-## ScreenShots
-![](./Windy%20Weather%20App/assets/Screenshot.jpg)
 https://josephbalshaw.github.io/weather-app/
